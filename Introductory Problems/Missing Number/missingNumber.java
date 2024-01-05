@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class weirdAlgorithm {
-
+public class missingNumber {
     private static void solve() {
         long n, nSum = 0, sumNum = 0, temp;
         Scanner scanner = new Scanner(System.in);
